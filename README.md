@@ -1,7 +1,7 @@
 # Muziki V2 :sweat_smile:
-The [Muziki](https://github.com/SharifMrCreed/Music-Player) app was one of my first Apps. Sphaggetti everywhere 
+The Muziki app was one of my first Apps. Sphaggetti everywhere 
 No Architecture no code principles nothing. Just getting it to work was
-all that mattered. 
+all that mattered. psst!!! :raising_hand_man: [Check out the code here](https://github.com/SharifMrCreed/Music-Player)
 
 
 ### Here's the link to goole playstore. Check it out :point_right: [Muziki](https://play.google.com/store/apps/details?id=com.alle.san.musicplayer&pli=1)
